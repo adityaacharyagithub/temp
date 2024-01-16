@@ -1,0 +1,1 @@
+This is a simple python file to understand the working of git and version control
